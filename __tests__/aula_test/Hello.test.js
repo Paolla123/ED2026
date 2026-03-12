@@ -1,4 +1,4 @@
-import Hello from "../src/Hello";
+import Hello from "../../src/aula/Hello";
 
 let h;
 
